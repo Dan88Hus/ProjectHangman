@@ -7,4 +7,6 @@ This "hangman" is good example for the {serialization} problem, it uses YAML.dum
 saved file will contain some statistics of game such as guessesleft, what is right word and etc.
 I suggest you to check it out as good example of YAML and File.I/O topic
 
+there is a cheating way which you save the game and check it saved file in directory and see what is the secret code variable then load the game again :) but nothing to do because this is the what is wanted.
+
 
